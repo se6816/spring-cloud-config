@@ -7,5 +7,5 @@ gateway:
 
 spring:
   datasource:
-    driver-class-name: {cipher}b86fdc41653186c9c6f4537994b529e71c054fa4c87386ad31fc5e393da6254b
-    url: {cipher}3f8c2cb5dc8aee8a00a723fd1efc79a15bf3fb044aaaf5dd29f1436c84a3e0b6cade52b95b4d50a593884fd2b9a58368
+    driver-class-name: '{cipher}b86fdc41653186c9c6f4537994b529e71c054fa4c87386ad31fc5e393da6254b'
+    url: '{cipher}3f8c2cb5dc8aee8a00a723fd1efc79a15bf3fb044aaaf5dd29f1436c84a3e0b6cade52b95b4d50a593884fd2b9a58368'
